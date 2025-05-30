@@ -12,7 +12,7 @@ A modern Tic Tac Toe game for Android, built with Kotlin and Jetpack Compose.
 
 ## Demo
 
-![Tic Tac Toe Gameplay](media/gameplay.gif)
+![Tic Tac Toe Gameplay](media/game.gif)
 
 ## Getting Started
 
