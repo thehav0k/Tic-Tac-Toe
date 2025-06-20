@@ -47,5 +47,3 @@ A modern Tic Tac Toe game for Android, built with Kotlin and Jetpack Compose.
 This project is licensed under the MIT License.
 
 ---
-
-Made by Md. Asif Khan
